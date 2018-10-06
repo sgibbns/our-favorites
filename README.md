@@ -1,2 +1,9 @@
 # our-favorites
-Optionally add a description
+Homework 5
+
+Activity:
+  https://github.com/StoneyJackson/github-workflow-activity/
+
+Roles:
+- Maintainer: Jon
+- Contributor: Shawn
