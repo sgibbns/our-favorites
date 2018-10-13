@@ -1,8 +1,4 @@
-apples
-burgers
-curry
-Steak
-tacos
-
-
-
+burgers [american]
+curry [indian]
+Steak [meat]
+tacos [texmex]
