@@ -1,4 +1,4 @@
-Steak
-tacos
-curry
-burgers
+Steak [meat]
+tacos [texmex]
+curry [indian]
+burgers [american]
